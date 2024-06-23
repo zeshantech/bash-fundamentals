@@ -1,0 +1,1 @@
+echo "The current file name is: ${0}"
